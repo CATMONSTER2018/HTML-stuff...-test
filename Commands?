@@ -1,0 +1,23 @@
+<body style="color: #ff4747; font-family: sans-serif; margin: 0px; zoom: 2;">
+    <div style="background-color: #27ae60; width: 800px; height: 600px; position: relative;">
+        <div style="background-color: #2ecc71; width: 100%; height: 80px; position: absolute; top: 0px; left: 0px;">
+            <h1 style="text-align: center;">Basic Commands</h1>
+        </div>
+        <div style="width: 100%; height: 520px; position: absolute; top: 80px; left: 0px;">
+            <h2 style="margin-left: 20px; margin-top: 20px; margin-bottom: 15px;">The Basics</h2>
+            <ol style="margin: 15px 20px; font-size: 20px;">
+                <li>Press 'T' to access the chat.</li>
+                <li>Type /lamps "on" or "off" to remove/create lights.</li>
+                <li>Type "/prune confirm" to remove all unwanted rooms.</li>
+            </ol>
+            <h2 style="margin-left: 20px; margin-top: 0px; margin-bottom: 15px;">Advanced</h2>
+            <ul style="margin: 15px 20px; font-size: 20px;">
+                <li>Type "/style opt1 opt2" to change designs.</li>
+                <li>Opt1 can be walls, floor, ceiling, or moldings.</li>
+                <li>Opt2 can be "wood-4" or "brick-2".</li>
+                <li>More information can be found in the help menu (Press H).</li>
+            </ul>
+            <p style="text-align: center; position: absolute; width: 100%; bottom: 0px;">You can remove this tutorial by destroying it with the Hammer Tool.</p>
+        </div>
+    </div>
+</body>
