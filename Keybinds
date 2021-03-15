@@ -1,0 +1,29 @@
+<body style="color: #ecf0f1; font-family: sans-serif; margin: 0px; zoom: 2;">
+    <div style="background-color: #bb00b8; width: 800px; height: 600px; position: relative;">
+        <div style="background-color: #ff00fb; width: 100%; height: 80px; position: absolute; top: 0px; left: 0px;">
+            <h1 style="text-align: center;">Keybinds</h1>
+        </div>
+        <div style="width: 100%; height: 520px; position: absolute; top: 80px; left: 0px;">
+            <h2 style="margin-left: 20px; margin-top: 20px; margin-bottom: 15px;">The Basics</h2>
+            <ol style="margin: 15px 20px; font-size: 20px;">
+                <li>Press 'Y' to access the Coordinate menu.</li>
+                <li>Press 'G' to Zoom in.</li>
+                <li>Press 'J' to jump.</li>
+                <li>Press 'B' to change your perspective.</li>
+                <li>Press 'T' to open chat.</li>
+                <li>Hold 'Space' to fly.</li>
+                <li>Hold 'Shift' when walking to sprint.</li>
+                <li>Pressing 'Q' will also make you sprint.</li>
+                <li>Tapping 'shift' when flying will allow you to glide.</li>
+            </ol>
+            <h2 style="margin-left: 20px; margin-top: 0px; margin-bottom: 15px;">Advanced</h2>
+            <ul style="margin: 15px 20px; font-size: 20px;">
+                <li>Pressing 'Shift' then 'Y' will open a more detailed Coordinate menu..</li>
+                <li>Hold 'shift' while flying to perform a powered glide.</li>
+                <li>Hold 'shift' when jumping to perform a long jump.</li>
+                <li>Holding 'J' when flying will act as a brake.</li>
+            </ul>
+            <p style="text-align: center; position: absolute; width: 100%; bottom: 0px;">You can remove this tutorial by destroying it with the Hammer Tool.</p>
+        </div>
+    </div>
+</body>
